@@ -1,5 +1,9 @@
 
+function userName(){
+user=document.getElementById("userName").value;
+document.getElementById("user1").innerHTML = `${user}`;
 
+}
 
 function addTask(){
 
