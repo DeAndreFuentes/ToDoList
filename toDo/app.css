@@ -1,0 +1,49 @@
+
+body {
+
+    
+    background: rgb(107,186,222);
+    background: linear-gradient(90deg, rgba(107,186,222,1) 0%, rgb(209, 232, 156) 100%);
+   
+}
+
+
+
+h1{
+    color: rgb(49, 49, 49);
+    margin-top: 40px;
+    text-align: center;
+    font-size: 32px;
+}
+
+
+
+.btn-add{
+
+    background-color: rgb(12, 187, 50);
+    color: white;
+    padding: 0px 63px;
+}
+
+
+
+ul{
+    display: flex;
+    flex-direction: column;
+    padding-left: 0;
+    margin-bottom: 0;
+
+    
+}
+li{
+    position: relative;
+    display: block;
+    padding: 10px 20px;
+    margin-bottom: 10px;
+    background-color:
+    #fff;
+    
+    
+}
+
+
